@@ -1,0 +1,53 @@
+---
+title: "Sci-Comm"
+description: |
+ Science is often inaccessible. Paywalls, academic jargon, and racist, classist elitism make consuming data difficult. To have broad impacts, it is necessary to reach a *broad* audience, which means disseminating information beyond peer-reviewed journals and academic conferences. To that end, I've started writing blog posts, creating fun shiny apps, and social media graphics about Psychology.
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    df_print: paged
+---
+# Blog Posts
+   <body>
+   <p>Read my post on moving from group level analyses to the individual level in eating disorder research</p>
+   <a href = "https://www.louisvilleeatlab.com/blog--in-the-press/the-movement-to-individual-analysis-and-what-that-means-for-you-in-recovery" target = "_self">
+   <img src = "img/grouptoidio.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
+   <p>Check out my post on disgust at the EAT Lab's Blog</p>
+      <a href = "http://www.louisvilleeatlab.com/blog--in-the-press/disgust-an-icky-and-sticky-feeling" target = "_self">
+         <img src = "img/disgust.png" style="width:75%;height:75%;" border = "2"/> 
+      </a>
+   </body><br>
+   <body>
+   <p>Check out my post on worry at the EAT Lab's Blog</p>
+      <a href = "http://www.louisvilleeatlab.com/blog--in-the-press/august-20th-2020" target = "_self">
+         <img src = "img/blog rumination.png" style="width:75%;height:75%;" border = "2"/> 
+      </a>
+   </body>
+
+# Shiny App
+   <body>
+   <p>I plotted my cohort's NEO profiles for a guessing game</p>
+      <a href = "https://ccusack.shinyapps.io/neo_shiny/" target = "_self">
+         <img src = "img/neoshiny.png" style="width:75%;height:75%;" border = "2"/> 
+      </a>
+   </body>
+
+# Social Media
+   <body>
+   <p>EAT Lab images for Social Media</p>
+      <a href = "https://twitter.com/PredictRecovery/status/1354818247141466112/photo/1" target = "_self">
+         <img src = "img/e4.png" style="width:75%;" border = "2"/> 
+      </a><br>
+      <a href = "https://twitter.com/PredictRecovery/status/1351524700380409858" target = "_self">
+         <img src = "img/networkstwitter.png" style="width:75%;" border = "2"/> 
+      </a>
+   </body>
+
+# Video
+<p>I speak with Drs. Rachel MacIntyre, PhD, and Megan Lynch, PsyD about eating disorders among LGBTQ+ individuals</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFfzg0v_P0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,61 @@
+---
+title: "Research"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    df_print: paged
+---
+:::: {style="display: flex;"}
+::: {}
+My research is centered on understanding individual eating disorder symptom dynamics and comorbidities Eating disorders are some of the most fatal psychiatric illnesses, and what drives my research questions are two grave realities: 1) Most people with an eating disorder won't receive treatment; and 2) Of those who do respond to treatment, fewer than half will recover. By understanding the timescale at which symptoms relate within persons, I hope that my program of research will inform personalized treatment. I also have a line of research that specifically focuses on ED and body image experiences of queer and trans individuals. Most of my questions can be distilled to:  
+
+-Why do eating disorders persist?  
+-How do we make sense of the heterogeneity?   
+-How can we use this information to improve treatment?
+:::
+::: {}
+  <figure>
+    <img src='img/network.png' style="width:300%;height:450%;"/>
+    <font size="3">
+    </font>
+  </figure>
+:::
+::::
+# **Representative Publications**
+<ol reversed>
+<li> Levinson, C. A., **Cusack, C. E.**, Brown, M. L., & Smith, A. R. (2022). A network approach can improve eating disorder conceptualization and treatment. *Nature Reviews Psychology*, 1-12. https://doi.org/10.1038/s44159-022-00062-y </li>
+<li> **Cusack, C. E.**, Iampieri, A. O., & Galupo, M. P. (In press). “I’m still not sure if the eating disorder is a result of gender dysphoria:” Trans and nonbinary individuals’ descriptions of their eating and body concerns in relation to their gender. *Psychology of Sexual Orientation and Gender Diversity*.</li>
+<li> **Cusack, C. E.**, Cooper, M., Libbey, N., & Galupo, M. P. (2021). Rumination and eating pathology in gender diverse individuals: A path analysis integrating minority stress *Eating Behaviors, 42, * 101544. https://doi.org/10.1016/j.eatbeh.2021.101544 </li> 
+<li> Galupo, M. P., **Cusack, C. E.**, & Morris, E. R. (2021). "Having a non-normative body for me is about survival”: Androgynous or non-stereotypical body ideal among trans and nonbinary individuals. *Body Image, 39*, 68-76. https://doi.org/10.1016/j.bodyim.2021.06.003 </li>
+<li> **Cusack, C. E.**, Christian, C., Drake, J. E., & Levinson, C. A. (2021). A network analysis of eating disorder symptoms and co-occurring alcohol misuse among heterosexual and sexual minority college women. *Addictive Behaviors*. https://doi.org/10.1016/j.addbeh.2021.106867. Preregistration on Open Science Framework osf.io/r5tka.</li>
+<li> **Cusack, C. E.**, & Galupo, M. P. (2020). Body checking and eating disorder pathology among nonbinary individuals with androgynous appearance ideals. *Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity*. https://doi.org/10.1007/s40519-020-01040-0 </li>
+<li> **Cusack, C. E.**, Morris, E. R. & Galupo, M. P. (2020). “A blank slate body:” Cis descriptions of their androgynous body ideals. *Psychology & Sexuality*. https://doi.org/10.1080/19419899.2020.1837920</li>
+<li>Pulice-Farrow, L., **Cusack, C. E.**, & Galupo, M. P. (2020). Certain parts of my body don’t belong to me: Transindividuals’ descriptions of body-specific gender dysphoria. *Sexuality Research and Social Policy*, 17, 654–667. https://doi.org/10.1007/s13178-019-00423-y</li>
+</ol reversed>
+# **Presentations**
+<body>
+   <p>Association for Psychological Sciences Annual Conference, May 2022</p>
+   <a href = "https://drive.google.com/file/d/1ah8xGTlBKHWMXLFTwfJjtNRwmFA4Akaa/view?usp=sharing" target = "_blank">
+   <img src = "img/APS2022.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
+   
+# **Posters**
+**Treatment Selection Idea Lab 2021**    
+Two Days of Precision Medicine in Mental Health, September, 2021
+![](img/TSIL2021.png)
+
+**American Psychological Association**    
+August, 2021
+![](img/APA2021.png)
+
+**Association for Behaviorl and Cognitive Therapies**  
+November, 2020
+![](img/ABCT 2020.png)
+
+**American Psychological Association**  
+August, 2020
+![](img/bodycheckapa.png)
