@@ -1,0 +1,36 @@
+---
+title: "Claire E. Cusack"
+image: "img/headshot.png"
+links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Claire-Cusack-2"
+  - label: Twitter
+    url: "https://twitter.com/ClaireECusack"
+  - label: GitHub
+    url: "https://github.com/cecusack"
+  - label: Email
+    url: "mailto:claire.cusack@louisville.edu"
+  - label: CV
+    url: "https://drive.google.com/file/d/1o9LwO1vSnv0CR_ujVvVaL3vRfu0pEvr4/view?usp=sharing"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hello! My name is Claire (they/she pronouns), and I am a doctoral student in Clinical Psychology at the University of Louisville under the mentorship of Dr. Cheri Levinson. I am funded by the National Science Foundation Graduate Research Fellowship Program. I am broadly interested in exploring maintenance symptoms of eating disorders and comorbidities and aim for my program of research to integrate theoretical and empirical research. I am particularly interested in applying idiographic statistical methods to understand to understand the heterogeneity of eating disorder symptoms, with the ultimate goal of informing tailored treatments. In my free time, I enjoy trail running, reading novels, and playing board games.
+
+## Education
+
+**University of Louisville** | Louisville, KY
+
+Ph.D. Student in Clinical Psychology | July 2021 - in progress
+
+**Towson University** | Towson, MD
+
+M.A. in Psychology, Clinical Concentration | August 2019 - May 2021
+
+**Agnes Scott College** | Decatur, GA
+
+B.A. in Psychology | August 2009 - May 2013
+

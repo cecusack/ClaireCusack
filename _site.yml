@@ -1,0 +1,13 @@
+name: "."
+title: "Claire E. Cusack"
+description: |
+  Claire E. Cusack
+output_dir: "docs"
+theme: my-theme.css
+navbar:
+  right:
+    - text: "Bio"
+      href: home.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
