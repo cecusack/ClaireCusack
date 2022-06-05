@@ -5,4 +5,6 @@ Professional Website. I used Dr. Maria Tackett's [guide](https://www.youtube.com
 **Head background color:** #0F2E3D    
 **Button color:** #F3E0DC    
 **Text color:** #2E151B    
-**Header color:** #5A5560
+**Header color:** #5A5560    
+
+For CV and posters, I've created a folder in google drive where I've saved pdf versions. I linked these urls to images so that viewers can view my CV or enlarge posters. 
