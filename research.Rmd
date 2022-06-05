@@ -45,17 +45,37 @@ My research is centered on understanding individual eating disorder symptom dyna
    
 # **Posters**
 **Treatment Selection Idea Lab 2021**    
-Two Days of Precision Medicine in Mental Health, September, 2021
-![](img/TSIL2021.png)
+<body>
+   <p>Two Days of Precision Medicine in Mental Health, September, 2021</p>
+   <a href = "https://drive.google.com/file/d/1VVl9LLsAQvNYoyjynBa0N0hSKSUoLxDO/view?usp=sharing" target = "_blank">
+   <img src = "img/TSIL2021.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
 
 **American Psychological Association**    
-August, 2021
-![](img/APA2021.png)
+<body>
+   <p>August 2021</p>
+   <a href = "https://drive.google.com/file/d/1J3V-tla2WylFMOpqIQsP0YCYfMxqLDrS/view?usp=sharing" target = "_blank">
+   <img src = "img/APA2021.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
 
-**Association for Behaviorl and Cognitive Therapies**  
-November, 2020
-![](img/ABCT 2020.png)
+**Association for Behavioral and Cognitive Therapies**  
+<body>
+   <p>November 2020</p>
+   <a href = "https://drive.google.com/file/d/1MG-AE0fyOAemF5TdBFni422EY9eMkQmz/view?usp=sharing" target = "_blank">
+   <img src = "img/ABCT 2020.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
 
 **American Psychological Association**  
-August, 2020
-![](img/bodycheckapa.png)
+<body>
+   <p>August 2020</p>
+   <a href = "https://drive.google.com/file/d/1RjChblD23TAnhIty1xA3IDzRtygkyaTZ/view?usp=sharing" target = "_blank">
+   <img src = "img/bodycheckapa.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
