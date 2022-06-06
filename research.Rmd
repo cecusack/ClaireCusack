@@ -52,7 +52,6 @@ My research is centered on understanding individual eating disorder symptom dyna
    </a>
    </body><br>
    <body>
-
 **American Psychological Association**    
 <body>
    <p>August 2021</p>
@@ -60,7 +59,6 @@ My research is centered on understanding individual eating disorder symptom dyna
    <img src = "img/APA2021.png" style="width: 75%;height:75%;" border = "2"/>
    </a>
    </body><br>
-
 **Association for Behavioral and Cognitive Therapies**  
 <body>
    <p>November 2020</p>
@@ -68,7 +66,6 @@ My research is centered on understanding individual eating disorder symptom dyna
    <img src = "img/ABCT 2020.png" style="width: 75%;height:75%;" border = "2"/>
    </a>
    </body><br>
-
 **American Psychological Association**  
 <body>
    <p>August 2020</p>
