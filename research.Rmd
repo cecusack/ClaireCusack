@@ -60,7 +60,6 @@ My research is centered on understanding individual eating disorder symptom dyna
    <img src = "img/APA2021.png" style="width: 75%;height:75%;" border = "2"/>
    </a>
    </body><br>
-   <body>
 
 **Association for Behavioral and Cognitive Therapies**  
 <body>
@@ -69,7 +68,6 @@ My research is centered on understanding individual eating disorder symptom dyna
    <img src = "img/ABCT 2020.png" style="width: 75%;height:75%;" border = "2"/>
    </a>
    </body><br>
-   <body>
 
 **American Psychological Association**  
 <body>
@@ -78,4 +76,3 @@ My research is centered on understanding individual eating disorder symptom dyna
    <img src = "img/bodycheckapa.png" style="width: 75%;height:75%;" border = "2"/>
    </a>
    </body><br>
-   <body>
