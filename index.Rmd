@@ -19,7 +19,7 @@ site: distill::distill_website
  
 ## Bio
 
-Hello! My name is Claire (they/she pronouns), and I am a second-year doctoral student in Clinical Psychology in Dr. Cheri Levinson's [Eating and Anxiety Treatment Lab](https://www.louisvilleeatlab.com/) at the University of Louisville. I am funded by the National Science Foundation Graduate Research Fellowship Program. I am broadly interested in exploring maintenance symptoms of eating disorders and comorbidities. I am particularly interested in applying idiographic statistical methods to investigate the heterogeneity of eating disorder symptoms at the individual level with the ultimate goal of informing tailored treatments. In my free time, I enjoy trail running, reading novels, and playing board games.
+Hello! My name is Claire (they/she pronouns), and I am a second-year doctoral student in Clinical Psychology in Dr. Cheri Levinson's [Eating and Anxiety Treatment Lab](https://www.louisvilleeatlab.com/){target="_blank"} at the University of Louisville. I am funded by the National Science Foundation Graduate Research Fellowship Program. I am broadly interested in exploring maintenance symptoms of eating disorders and comorbidities. I am particularly interested in applying idiographic statistical methods to investigate the heterogeneity of eating disorder symptoms at the individual level with the ultimate goal of informing tailored treatments. In my free time, I enjoy trail running, reading novels, and playing board games.
 
 
 ## Education
