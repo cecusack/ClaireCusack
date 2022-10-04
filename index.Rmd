@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:claire.cusack@louisville.edu"
   - label: CV
-    url: "https://drive.google.com/file/d/1o9LwO1vSnv0CR_ujVvVaL3vRfu0pEvr4/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1Tika8kjTxDfGd1AljGmMWAp4fo52GvIl/view?usp=sharing"
 output:
   postcards::trestles
 site: distill::distill_website
