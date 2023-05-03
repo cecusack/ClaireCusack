@@ -10,6 +10,18 @@ output:
     df_print: paged
 ---
 # Blog Posts
+  <body>
+   <p>Here I write about implementing CURE principles into EAT Lab Research Assistant meetings</p>
+   <a href = "https://www.louisvilleeatlab.com/blog--in-the-press/scaling-up-student-led-research" target = "_self">
+   <img src = "img/cure.png" style="width: 75%;height:75%;" border = "2"/>
+   </a>
+   </body><br>
+   <body>
+   <p>Check out my post on disgust at the EAT Lab's Blog</p>
+      <a href = "http://www.louisvilleeatlab.com/blog--in-the-press/disgust-an-icky-and-sticky-feeling" target = "_self">
+         <img src = "img/disgust.png" style="width:75%;height:75%;" border = "2"/> 
+      </a>
+   </body><br>
    <body>
    <p>Read my post on moving from group level analyses to the individual level in eating disorder research</p>
    <a href = "https://www.louisvilleeatlab.com/blog--in-the-press/the-movement-to-individual-analysis-and-what-that-means-for-you-in-recovery" target = "_self">
