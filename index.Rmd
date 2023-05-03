@@ -1,6 +1,6 @@
 ---
 title: "Claire E. Cusack"
-image: "img/headshot.png"
+image: "img/headshot2.png"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Claire-Cusack-2"
