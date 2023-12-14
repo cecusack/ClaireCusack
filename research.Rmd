@@ -26,6 +26,7 @@ My research is centered on understanding eating disorder and co-occurring sympto
 ::::
 # **Representative Publications**
 <ol reversed>
+<li> **Cusack, C. E.**, Vanzhula, I.A., Sandoval-Araujo, L., Pennesi, J-L., Kelley, S.W., & Levinson, C.A. (2023, In Press). Are central eating disorder network symptoms sensitive to item selection and sample? Implications for conceptualization of eating disorder psychopathology from a network perspective. Journal of Psychopathology and Clinical Science. Preprint: https://osf.io/preprints/psyarxiv/xr4ce </li>
 <li> **Cusack, C. E.**, Vanzhula, I. A., & Levinson, C. A. (2022). The structure of eating disorder and somatic symptoms. *Journal of Affective Disorders*, 319, 397-406. https://doi.org/10.1016/j.jad.2022.09.106 </li>
 <li> Levinson, C. A., **Cusack, C. E.**, Brown, M. L., & Smith, A. R. (2022). A network approach can improve eating disorder conceptualization and treatment. *Nature Reviews Psychology*, 1-12. https://doi.org/10.1038/s44159-022-00062-y </li>
 <li> **Cusack, C. E.**, Iampieri, A. O., & Galupo, M. P. (In press). “I’m still not sure if the eating disorder is a result of gender dysphoria:” Trans and nonbinary individuals’ descriptions of their eating and body concerns in relation to their gender. *Psychology of Sexual Orientation and Gender Diversity*.</li>
