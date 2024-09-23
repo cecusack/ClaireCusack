@@ -4,8 +4,8 @@ image: "img/headshot3.png"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Claire-Cusack-2"
-  - label: Twitter
-    url: "https://twitter.com/ClaireECusack"
+  - label: Bluesky
+    url: "https://bsky.app/profile/claireecusack.bsky.social"
   - label: GitHub
     url: "https://github.com/cecusack"
   - label: Email
