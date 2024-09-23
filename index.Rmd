@@ -19,7 +19,7 @@ site: distill::distill_website
  
 ## Bio
 
-Claire (they/she pronouns) is a third-year doctoral candidate in Clinical Psychology in Dr. Cheri Levinson's [Eating and Anxiety Treatment Lab](https://www.louisvilleeatlab.com/){target="_blank"} at the University of Louisville. They are funded by the National Science Foundation Graduate Research Fellowship Program. Claire is broadly interested in exploring maintenance symptoms of eating disorders and comorbidities. They are particularly interested in applying idiographic statistical methods to investigate the heterogeneity of eating disorder symptoms at the individual level with the ultimate goal of informing tailored treatments. In their free time, Claire enjoys trail running, crafting, and playing board games.
+Claire (they/she pronouns) is a fourth-year doctoral candidate in Clinical Psychology in Dr. Cheri Levinson's [Eating and Anxiety Treatment Lab](https://www.louisvilleeatlab.com/){target="_blank"} at the University of Louisville. They are funded by the National Science Foundation Graduate Research Fellowship Program. Claire is broadly interested in exploring trajectories of eating disorder recovery, relapse, and maintenance. They are particularly interested in applying idiographic statistical methods to investigate the heterogeneity of eating disorder symptoms at the individual level with the ultimate goal of informing tailored treatments. In their free time, Claire enjoys trail running, crafting, and playing board games.
 
 
 ## Education
